@@ -77,6 +77,5 @@ class JcropImageUploadField extends ImageUploadField
 				closedir($handle);
 			}
 		}
-		
 	}
 }
